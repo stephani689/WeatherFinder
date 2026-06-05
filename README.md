@@ -21,7 +21,7 @@ mendemonstrasikan useEffect, debounce, dan integrasi API.
 3. Scan QR dengan Expo Go
 
 ## Link
-- Expo Snack: [[tempel link di sini](https://snack.expo.dev/@stephanizz/weatherfinder)]
+- Expo Snack: [[snack expo akses](https://snack.expo.dev/@stephanizz/weatherfinder)]
 
 ## Screenshot
 ![Kondisi Awal](screenshots/empty.png)
