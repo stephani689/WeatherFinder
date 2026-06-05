@@ -24,9 +24,11 @@ mendemonstrasikan useEffect, debounce, dan integrasi API.
 - Expo Snack: [[snack expo akses](https://snack.expo.dev/@stephanizz/weatherfinder)]
 
 ## Screenshot
-![Kondisi Awal](screenshots/empty.png)
-![Loading](screenshots/loading.png)
-![Hasil](screenshots/result.png)
+![Kondisi Awal](assets/kondisiawal.png)
+![Hasil](assets/Hasil.png)
+![Favorite](assets/favorit.png)
+![Delete](assets/delete.png)
+![Error](assets/error.png)
 
 ## Author
 [Stephani Della Christin Zai] - [243303621228] - Universitas Prima Indonesia
