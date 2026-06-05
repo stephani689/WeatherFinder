@@ -24,10 +24,15 @@ mendemonstrasikan useEffect, debounce, dan integrasi API.
 - Expo Snack: [[snack expo akses](https://snack.expo.dev/@stephanizz/weatherfinder)]
 
 ## Screenshot
+## Kondisi Awal
 ![Kondisi Awal](assets/kondisiawal.png)
+## Hasil
 ![Hasil](assets/Hasil.png)
+## Favorite
 ![Favorite](assets/favorit.png)
+## Delete
 ![Delete](assets/delete.png)
+## Error
 ![Error](assets/error.png)
 
 ## Author
